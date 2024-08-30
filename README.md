@@ -18,22 +18,23 @@ The world being overtaken by apocalypse, everyone is left to fend for themselves
 
 
 Current features:
-Simple intro ("opal studios" is a fake studio name that I own; same as "san junipero studios")
 
-Main menu, with different screens for settings, and placeholders for credits and a "logbook" feature
+- Simple intro ("opal studios" is a fake studio name that I own; same as "san junipero studios")
 
-Game screen, where you have a working tile system and can place different tiles. A click-and-drag-to-place feature is also developed
+- Main menu, with different screens for settings, and placeholders for credits and a "logbook" feature
 
-Work-in-progress save-load system that still needs work
+- Game screen, where you have a working tile system and can place different tiles. A click-and-drag-to-place feature is also developed
+
+- Work-in-progress save-load system that still needs work
 
 Planned features:
 
-Extensive health and personality/trait system for survivors
+- Extensive health and personality/trait system for survivors
 
-The ability to take apart, dismantle, and repurpose basically every object or thing in the game
+- The ability to take apart, dismantle, and repurpose basically every object or thing in the game
 
-Perform incursions into cities and populated areas to get resources to scrap and salvage; this mechanic would be similar to going out at night in This War of Mine
+- Perform incursions into cities and populated areas to get resources to scrap and salvage; this mechanic would be similar to going out at night in This War of Mine
 
-Deadly sun and environmental events make timing and living awkward; surviving is a challenge
+- Deadly sun and environmental events make timing and living awkward; surviving is a challenge
 
-Extensive jobs and skills system that governs how well survivors can build, farm, salvage, and so forth
+- Extensive jobs and skills system that governs how well survivors can build, farm, salvage, and so forth
