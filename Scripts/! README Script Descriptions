@@ -1,2 +1,18 @@
 This is a detailed list of what the scripts do in the game Salvage. At some point there will be a proper build and project files accessible.
 
+CameraManager.cs: Allows the player to move the camera through multiple forms of movement: WASD, arrow keys, and by middle-mouse dragging. 
+Allows the player to adjust the zoom level of the camera, and speed up the camera by holding shift.
+
+GameMapData.cs: Core game script that holds all of the data of all of the tiles in the map. Used for rendering and so the game knows what is where.
+
+GameMapRenderer.cs: Core renderer that reads from the GameMapData script to know what to draw to the screen. Also allows GameMapData to know what a given title is at a location.
+
+MouseManager.cs: Manages clicking of the mouse, and also what the mouse does. Allows the player to click and drag to form tiles on the play screen.
+
+SettingsMenu.cs: Script for the main menu that manages things on the settings menu, like resolutions and user preferences.
+
+TileClasses.cs: Component-factory script that uses different components to allow the building of unique classes for tiles for hyper-efficient memory storage and management. Utilized by the TileRepository script.
+
+TileRepository.cs: Core game script that holds all of the information and defines what the repository should be. Every tile created pulls the information needed from this script.
+
+VolumeSettings.cs: Smaller script for the settings menu and for audio in the game. Stores and uses audio preferences and makes every audio clip fit into a source for sound management.
